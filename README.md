@@ -402,8 +402,6 @@ DMVPN-Hub-Spoke-IKEv2-Phase-3/
 │   ├── 06_r2_show_ip_nhrp.png
 │   ├── 07_r2_traceroute_spoke_to_spoke.png
 │   └── 08_r2_show_dmvpn.png
-└── entregables/
-    └── links_videos.txt
 ```
 
 ---
