@@ -15,11 +15,6 @@
 **Repositorio sugerido:** `https://github.com/iClexi/DMVPN-Hub-Spoke-IKEv2-Phase-3`  
 **Video demostrativo:** https://youtu.be/p5YHZzax3G0
 
-## Etiquetas
-
-`DMVPN` `Phase-3` `IKEv2` `IPsec` `EIGRP` `GRE Multipoint` `NHRP` `Hub-and-Spoke` `GNS3` `Cisco`
-
----
 
 ## Indice
 
