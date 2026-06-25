@@ -16,12 +16,6 @@
 **Repositorio:** `https://github.com/iClexi/DMVPN-Hub-Spoke-IKEv2-Phase-3`  
 **Video demostrativo:** https://youtu.be/p5YHZzax3G0
 
-## Etiquetas
-
-`DMVPN` `Fase 3` `IKEv2` `IPsec` `EIGRP` `GRE multipoint` `NHRP` `Hub and Spoke` `GNS3` `Cisco` `VPN`
-
----
-
 ## Índice
 
 1. [Descripción del proyecto](#descripción-del-proyecto)
@@ -411,20 +405,6 @@ DMVPN-Hub-Spoke-IKEv2-Phase-3/
 └── entregables/
     └── links_videos.txt
 ```
-
----
-
-## Entregables
-
-| Entregable | Estado |
-|---|---|
-| Configuraciones `.cfg` | Completado |
-| Documentación técnica profesional en PDF | Completado |
-| Documentación editable en Word | Completado |
-| README tipo tutorial | Completado |
-| Evidencias/capturas | Completado |
-| Link del video | https://youtu.be/p5YHZzax3G0 |
-| Link del repositorio | https://github.com/iClexi/DMVPN-Hub-Spoke-IKEv2-Phase-3 |
 
 ---
 
