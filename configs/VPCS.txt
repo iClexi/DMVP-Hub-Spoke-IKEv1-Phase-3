@@ -1,0 +1,13 @@
+# Comandos VPCS para la practica DMVPN Fase 3
+
+# PC-HUB
+ip 192.168.45.10/24 192.168.45.1
+save
+
+# PC-SPOKE-1
+ip 192.168.84.10/24 192.168.84.1
+save
+
+# PC-SPOKE-2
+ip 192.168.8.10/24 192.168.8.1
+save
