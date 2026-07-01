@@ -162,7 +162,6 @@ Las configuraciones completas se encuentran en la carpeta [`configs`](configs/):
 | R3-SPOKE2 | [`configs/R3-SPOKE2.cfg`](configs/R3-SPOKE2.cfg) |
 | ISP | [`configs/ISP.cfg`](configs/ISP.cfg) |
 | Switches | [`configs/SWITCHES.cfg`](configs/SWITCHES.cfg) |
-| VPCS | [`configs/VPCS.txt`](configs/VPCS.txt) |
 
 ---
 
@@ -389,7 +388,6 @@ DMVPN-Hub-Spoke-IKEv2-Phase-3/
 │   ├── R3-SPOKE2.cfg
 │   ├── ISP.cfg
 │   ├── SWITCHES.cfg
-│   └── VPCS.txt
 ├── docs/
 │   ├── Documentacion Tecnica Profesional.docx
 │   └── Documentacion Tecnica Profesional.pdf
